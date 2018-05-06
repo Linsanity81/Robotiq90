@@ -2,8 +2,6 @@
 
 ROS metapackage developed by the [NEO GROUP] from the [ShanTou University, China]. 
 
-This package is modified from the robotiq package developed by the [Control Robotics Intelligence Group](http://www.ntu.edu.sg/home/cuong/) from the [Nanyang Technological University, Singapore](http://www.ntu.edu.sg).
-
 ## Maintainer
 
 [Rulin Chen](https://github.com/Linsanity81)
