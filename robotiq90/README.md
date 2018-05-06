@@ -34,7 +34,7 @@ Expected output:
 ```
 Simple C-Model Controller
 -----
-Current command:  rACT = 0, rGTO = 0, rATR = 0, rPR = 0, rSP = 0, rFR = 0 (Perhap different)
+Current command:  rACT = 0, rGTO = 0, rATR = 0, rPR = 0, rSP = 0, rFR = 0 (Perhaps different)
 -----
 Available commands
 
